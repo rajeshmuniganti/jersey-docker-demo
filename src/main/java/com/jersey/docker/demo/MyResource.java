@@ -1,4 +1,4 @@
-package com.dekses.jersey.docker.demo;
+package com.jersey.docker.demo;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
